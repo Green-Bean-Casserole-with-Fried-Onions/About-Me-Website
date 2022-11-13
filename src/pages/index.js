@@ -27,11 +27,11 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='/oliviaZhu'
             className='card'>
-            <h3>Project Resources&rarr;</h3>
+            <h3>Olivia's Page&rarr;</h3>
             <p>
-              Return to the Github for resources on creating your own website!
+              More info on Olivia!
             </p>
           </a>
           <a
